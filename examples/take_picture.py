@@ -1,4 +1,6 @@
 # very simple script that just takes one picture
+
+# imports necessary dependencies
 from picamera import PiCamera
 
 # creates a camera object to take pictures or videos with
